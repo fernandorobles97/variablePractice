@@ -9,3 +9,11 @@ var mileCount = 6
 var isOnline = true
 var isCool = false
 var hasDrip = true 
+
+email = "goodbyeworld@gmail.com"
+password = "worldgoodbye"
+username = "goodbyeworld99"
+
+console.log(email)
+console.log(password)
+console.log(hasDrip)
